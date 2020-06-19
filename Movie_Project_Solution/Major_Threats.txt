@@ -1,0 +1,3 @@
+We have commented out the "spreading" part of the objective function to speed up model solving during development.  It MUST be turned back on!
+
+Currently CreateSchedules puts all the schedules in the TrashBin folder.
